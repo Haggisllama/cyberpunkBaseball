@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"mTitleIntroMusic",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":163.73558,
+  "exportDir":"",
+  "name":"mTitleIntroMusic",
+  "parent":{
+    "name":"Music",
+    "path":"folders/Sounds/Music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mTitleIntroMusic.wav",
+  "volume":1.0,
+}
