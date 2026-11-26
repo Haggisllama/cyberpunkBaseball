@@ -1,0 +1,50 @@
+{
+  "$GMProject":"v1",
+  "%Name":"Cyberpunk Baseball",
+  "AudioGroups":[
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":0,
+  "Folders":[
+    {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Sounds","folderPath":"folders/Sounds.yy","name":"Sounds","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
+  "ForcedPrefabProjectReferences":[],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2026.1.0.27",
+  },
+  "name":"Cyberpunk Baseball",
+  "resources":[
+    {"id":{"name":"rBallGameplay","path":"rooms/rBallGameplay/rBallGameplay.yy",},},
+    {"id":{"name":"rCutscene","path":"rooms/rCutscene/rCutscene.yy",},},
+    {"id":{"name":"rHittingBall","path":"rooms/rHittingBall/rHittingBall.yy",},},
+    {"id":{"name":"rMenu","path":"rooms/rMenu/rMenu.yy",},},
+    {"id":{"name":"rVictoryScreen","path":"rooms/rVictoryScreen/rVictoryScreen.yy",},},
+    {"id":{"name":"sBaseball","path":"sprites/sBaseball/sBaseball.yy",},},
+    {"id":{"name":"sEnemy","path":"sprites/sEnemy/sEnemy.yy",},},
+    {"id":{"name":"sTitleScreen","path":"sprites/sTitleScreen/sTitleScreen.yy",},},
+    {"id":{"name":"sVictoryScreen","path":"sprites/sVictoryScreen/sVictoryScreen.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"rMenu","path":"rooms/rMenu/rMenu.yy",},},
+    {"roomId":{"name":"rCutscene","path":"rooms/rCutscene/rCutscene.yy",},},
+    {"roomId":{"name":"rHittingBall","path":"rooms/rHittingBall/rHittingBall.yy",},},
+    {"roomId":{"name":"rBallGameplay","path":"rooms/rBallGameplay/rBallGameplay.yy",},},
+    {"roomId":{"name":"rVictoryScreen","path":"rooms/rVictoryScreen/rVictoryScreen.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}
