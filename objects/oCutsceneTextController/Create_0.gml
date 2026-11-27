@@ -1,14 +1,14 @@
 textArray = [
-	"It's the year 2346, 500 years after baseball's first modern-rules match",
-	"in the last 500 years, the sport has undergone significant change",
-	"primarily as a result of the development of cybernetics in the 2200's",
-	"as well as rules lobbying from cybernetics corps towards officials",
-	"which has led to the most extreme change",
-	"any catch is instantly used to tag out any runner",
-	"this of course, means",
-	"in order to score",
-	"any ball hit",
-	"must be a"];
+	"The year is 2346, 500 years after the first game of baseball played under official modern rules.",
+	"chief amongst these changes was the introduction of cybernetics to the sport",
+	"caused by open corruption in rules officials and a blatant quantity of bribery from cybernetics corps.",
+	"cybernetics provide an overwhelming advantage towards the fielding team the moment they catch a ball",
+	"meaning that any caught ball leads to an instant out",
+	"play doctrine has changed towards ensuring that balls never get caught",
+	"and the best way to do that",
+	"is to make sure",
+	"you score",
+	"a"];
 	
 	draw_set_valign(fa_middle);
 	draw_set_halign(fa_center);
